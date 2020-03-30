@@ -9,13 +9,13 @@ His course is provided in EdX online learning website.
 |Homework|Task|Link|
 |:---:|:---:|:---:|
 |1|Overburden stress and porosity|[Notebook]()|
-|2|Overburden stress and porosity|[Notebook]()|
-|3|Overburden stress and porosity|[Notebook]()|
-|4|Overburden stress and porosity|[Notebook]()|
-|5|Overburden stress and porosity|[Notebook]()|
-|6|Overburden stress and porosity|[Notebook]()|
-|7|Overburden stress and porosity|Unavailable yet|
-|8|Overburden stress and porosity|Unavailable yet|
+|2|Estimating the Onset of Overpressure|[Notebook]()|
+|3|Estimating Rock Strength from Geophysical Logs|[Notebook]()|
+|4|Estimating Bounds on the Maximum Horizontal Stress |[Notebook]()|
+|5|Analyzing Natural Fractures|[Notebook]()|
+|6|Constraining the Maximum Horizontal Stress from Wellbore Failure|[Notebook]()|
+|7|Development of a Geomechanical Model|Unavailable yet|
+|8|Identifying Critically Stressed Fractures|Unavailable yet|
 
 <div>
 <img src="https://user-images.githubusercontent.com/51282928/76139144-376a1180-6080-11ea-9943-d4ce06ff9608.png" width="300"/>
