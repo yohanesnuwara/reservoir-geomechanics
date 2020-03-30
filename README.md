@@ -6,14 +6,14 @@ Worked solutions of Prof. Mark Zoback's Reservoir Geomechanics course (StanfordO
 
 His course is provided in EdX online learning website.
 
-|Homework|Task|Link|
+|Homework|Topic|Link|
 |:---:|:---:|:---:|
-|1|Overburden stress and porosity|[Notebook]()|
-|2|Estimating the Onset of Overpressure|[Notebook]()|
-|3|Estimating Rock Strength from Geophysical Logs|[Notebook]()|
-|4|Estimating Bounds on the Maximum Horizontal Stress |[Notebook]()|
-|5|Analyzing Natural Fractures|[Notebook]()|
-|6|Constraining the Maximum Horizontal Stress from Wellbore Failure|[Notebook]()|
+|1|Overburden stress and porosity|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%201/homework1.ipynb)|
+|2|Estimating the Onset of Overpressure|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%202/homework2.ipynb)|
+|3|Estimating Rock Strength from Geophysical Logs|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%203/homework3_reservoir_geomechanics.ipynb)|
+|4|Estimating Bounds on the Maximum Horizontal Stress |[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%204/homework4_reservoir_geomechanics.ipynb)|
+|5|Analyzing Natural Fractures|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%205/homework5_reservoir_geomechanics.ipynb)|
+|6|Constraining the Maximum Horizontal Stress from Wellbore Failure|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%206/homework6_reservoir_geomechanics.ipynb)|
 |7|Development of a Geomechanical Model|Unavailable yet|
 |8|Identifying Critically Stressed Fractures|Unavailable yet|
 
