@@ -1,9 +1,15 @@
-def zobackogram(Sv, Pp):
+def zobackogram(Sv, Pp, mu):
+  import numpy as np
+  import matplotlib.pyplot as plt
+
+  # ratio of S1-Pp to S3-Pp
+  ratio = (np.sqrt((mu**2) + 1) + mu)**2
+
   # lower limit of Shmin, from Sv
-  Sh = 0.6 * Sv
+  Sh = ((Sv - Pp) / ratio) + Pp
 
   # upper limit of SHmax, from Sv and Pp
-  SH = (3.1 * (Sv - Pp)) + Pp
+  SH = (ratio * (Sv - Pp)) + Pp
 
   # axes of plot
   Sv_x = np.arange(0, (SH + 10000), 10)
@@ -35,5 +41,5 @@ def zobackogram(Sv, Pp):
   plt.xlabel('Shmin (psi)'); plt.ylabel('SHmax (psi)')
   plt.xlim(xmin=0); plt.ylim(ymin=0)
   plt.gca().set_aspect('equal')
-  
-  return()
+
+  return(p1, p2, nf, ss, rf)
