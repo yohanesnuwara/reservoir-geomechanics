@@ -14,7 +14,7 @@ His course is provided in EdX online learning website.
 |4|Estimating Bounds on the Maximum Horizontal Stress|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%204/Reservoir_Geomechanics_MOOC_HW4_2020.pdf)|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%204/homework4_reservoir_geomechanics.ipynb)|
 |5|Analyzing Natural Fractures|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%205/Reservoir_Geomechanics_MOOC_HW5_2020.pdf)|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%205/homework5_reservoir_geomechanics.ipynb)|
 |6|Constraining the Maximum Horizontal Stress from Wellbore Failure|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%206/Reservoir_Geomechanics_MOOC_HW6_2020.pdf)|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%206/homework6_reservoir_geomechanics.ipynb)|
-|7|Development of a Geomechanical Model|PDF|Unavailable yet|
+|7|Development of a Geomechanical Model|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%207/Reservoir_Geomechanics_MOOC_HW7_2020.pdf)|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%207/homework7_reservoir_geomechanics.ipynb)|
 |8|Identifying Critically Stressed Fractures|PDF|Unavailable yet|
 
 <div>
