@@ -4,7 +4,7 @@
 
 ## Reservoir Geomechanics Course by Prof. Mark Zoback (Stanford Uni)
 
-Worked solutions of Prof. Mark Zoback's Reservoir Geomechanics course (StanfordOnline: GEOPHYSX0001) homeworks implemented using Python in ipynb notebooks
+Worked solutions of Prof. Mark Zoback's Reservoir Geomechanics Spring Course 2020 (StanfordOnline: GEOPHYSX0001) homeworks implemented using Python in ipynb notebooks
 
 His course is provided in EdX online learning website.
 
