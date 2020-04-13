@@ -17,7 +17,7 @@ His course is provided in EdX online learning website.
 |5|Analyzing Natural Fractures|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%205/Reservoir_Geomechanics_MOOC_HW5_2020.pdf)|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%205/homework5_reservoir_geomechanics.ipynb)|
 |6|Constraining the Maximum Horizontal Stress from Wellbore Failure|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%206/Reservoir_Geomechanics_MOOC_HW6_2020.pdf)|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%206/homework6_reservoir_geomechanics.ipynb)|
 |7|Development of a Geomechanical Model|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%207/Reservoir_Geomechanics_MOOC_HW7_2020.pdf)|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%207/REVISED_homework7_reservoir_geomechanics.ipynb)|
-|8|Identifying Critically Stressed Fractures|PDF|Unavailable yet|
+|8|Identifying Critically Stressed Fractures|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%208/Reservoir_Geomechanics_MOOC_HW8_2020.pdf)|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%208/homework8_resgeomech_finally.ipynb)|
 
 <div>
 <img src="https://user-images.githubusercontent.com/51282928/76139144-376a1180-6080-11ea-9943-d4ce06ff9608.png" width="300"/>
