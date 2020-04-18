@@ -2,7 +2,7 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
-## Reservoir Geomechanics Course by Prof. Mark Zoback (Stanford Uni)
+## Reservoir Geomechanics Course by Prof. Mark Zoback (Spring 2020, Stanford Uni)
 
 Worked solutions of Prof. Mark Zoback's Reservoir Geomechanics Spring Course 2020 (StanfordOnline: GEOPHYSX0001) homeworks implemented using Python in ipynb notebooks
 
@@ -18,6 +18,21 @@ His course is provided in EdX online learning website.
 |6|Constraining the Maximum Horizontal Stress from Wellbore Failure|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%206/Reservoir_Geomechanics_MOOC_HW6_2020.pdf)|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%206/homework6_reservoir_geomechanics.ipynb)|
 |7|Development of a Geomechanical Model|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%207/Reservoir_Geomechanics_MOOC_HW7_2020.pdf)|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%207/REVISED_homework7_reservoir_geomechanics.ipynb)|
 |8|Identifying Critically Stressed Fractures|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%208/Reservoir_Geomechanics_MOOC_HW8_2020.pdf)|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%208/homework8_resgeomech_finally.ipynb)|
+
+## Unconventional Reservoir Geomechanics Course by Prof. Mark Zoback (Spring 2020, Stanford Uni)
+
+Worked solutions of Prof. Mark Zoback's Unconventional Reservoir Geomechanics Spring Course 2020 (StanfordOnline: GEOPHYSX0001) homeworks implemented using Python in ipynb notebooks
+
+More advanced course continuation of Reservoir Geomechanics, course also available in EdX.
+
+|Week|Topic|Homework PDF|Worked Solution|
+|:---:|:---:|:---:|:---:|
+|1|State of Stress in Unconventional Reservoirs|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/unconve/homework%201/GP208_Spring_2020_Homework_1_edX.pdf)|Notebook|
+|2|Composition and Elastic Properties|PDF|Notebook|
+|3|Ductility, Friction, and Stress Magnitudes|PDF|Notebook|
+|4|Flow and Sorption|PDF|Notebook|
+|5|Stress, Faults, and Reservoir Seismology|PDF|Notebook|
+|6|Induced Shear Slip on Faults|PDF|Notebook|
 
 <div>
 <img src="https://user-images.githubusercontent.com/51282928/76139144-376a1180-6080-11ea-9943-d4ce06ff9608.png" width="300"/>
