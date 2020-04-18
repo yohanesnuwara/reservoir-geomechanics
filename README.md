@@ -27,12 +27,12 @@ More advanced course continuation of Reservoir Geomechanics, course also availab
 
 |Week|Topic|Homework PDF|Worked Solution|
 |:---:|:---:|:---:|:---:|
-|1|State of Stress in Unconventional Reservoirs|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/unconve/homework%201/GP208_Spring_2020_Homework_1_edX.pdf)|Notebook|
-|2|Composition and Elastic Properties|PDF|Notebook|
-|3|Ductility, Friction, and Stress Magnitudes|PDF|Notebook|
-|4|Flow and Sorption|PDF|Notebook|
-|5|Stress, Faults, and Reservoir Seismology|PDF|Notebook|
-|6|Induced Shear Slip on Faults|PDF|Notebook|
+|1|State of Stress in Unconventional Reservoirs|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/unconve/homework%201/GP208_Spring_2020_Homework_1_edX.pdf)|Unavailable yet|
+|2|Composition and Elastic Properties|Unavailable yet|Unavailable yet|
+|3|Ductility, Friction, and Stress Magnitudes|Unavailable yet|Unavailable yet|
+|4|Flow and Sorption|Unavailable yet|Unavailable yet|
+|5|Stress, Faults, and Reservoir Seismology|Unavailable yet|Unavailable yet|
+|6|Induced Shear Slip on Faults|Unavailable yet|Unavailable yet|
 
 <div>
 <img src="https://user-images.githubusercontent.com/51282928/76139144-376a1180-6080-11ea-9943-d4ce06ff9608.png" width="300"/>
