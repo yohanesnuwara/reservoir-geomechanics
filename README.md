@@ -28,7 +28,7 @@ More advanced course continuation of Reservoir Geomechanics, course also availab
 |Week|Topic|Homework PDF|Worked Solution|
 |:---:|:---:|:---:|:---:|
 |1|State of Stress in Unconventional Reservoirs|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/unconve/homework%201/GP208_Spring_2020_Homework_1_edX.pdf)|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/unconve/homework%201/homework1_unconve_geomechanics.ipynb)|
-|2|Composition and Elastic Properties|Unavailable yet|Unavailable yet|
+|2|Composition and Elastic Properties|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/unconve/homework%202/GP208_Spring_2020_Homework_2_edX.pdf)|Unavailable yet|
 |3|Ductility, Friction, and Stress Magnitudes|Unavailable yet|Unavailable yet|
 |4|Flow and Sorption|Unavailable yet|Unavailable yet|
 |5|Stress, Faults, and Reservoir Seismology|Unavailable yet|Unavailable yet|
