@@ -8,6 +8,8 @@ Worked solutions of Prof. Mark Zoback's Reservoir Geomechanics Spring Course 202
 
 His course is provided in EdX online learning website.
 
+> 👉 Course videos and presentation slides stored in this [Google Drive]() (not free access)
+
 |Week|Topic|Homework PDF|Worked Solution|
 |:---:|:---:|:---:|:---:|
 |1|Overburden stress and porosity|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%201/Homework%201_due%2024%20feb.pdf)|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/homework%201/homework1.ipynb)|
@@ -24,6 +26,8 @@ His course is provided in EdX online learning website.
 Worked solutions of Prof. Mark Zoback's Unconventional Reservoir Geomechanics Spring Course 2020 (StanfordOnline: GEOPHYSX0001) homeworks implemented using Python in ipynb notebooks
 
 More advanced course continuation of Reservoir Geomechanics, course also available in EdX.
+
+> 👉 Presentation slides stored in this [Google Drive]() (not free access)
 
 |Week|Topic|Homework PDF|Worked Solution|
 |:---:|:---:|:---:|:---:|
