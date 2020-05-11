@@ -23,7 +23,7 @@ His course is provided in EdX online learning website.
 
 ## Unconventional Reservoir Geomechanics Course by Prof. Mark Zoback (Spring 2020, Stanford Uni)
 
-Worked solutions of Prof. Mark Zoback's Unconventional Reservoir Geomechanics Spring Course 2020 (StanfordOnline: GEOPHYSX0001) homeworks implemented using Python in ipynb notebooks
+Worked solutions of Prof. Mark Zoback's Unconventional Reservoir Geomechanics Spring Course 2020 (Stanford Online: GEOPHYSX0004) homeworks implemented using Python in ipynb notebooks
 
 More advanced course continuation of Reservoir Geomechanics, course also available in EdX.
 
