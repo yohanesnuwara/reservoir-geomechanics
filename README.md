@@ -8,7 +8,7 @@ Worked solutions of Prof. Mark Zoback's Reservoir Geomechanics Spring Course 202
 
 His course is provided in EdX online learning website.
 
-> 👉 Course videos and presentation slides stored in this [Google Drive]() (not free access)
+> 👉 Course videos and presentation slides stored in this [Google Drive](https://drive.google.com/open?id=1E3rFXfXdwubZjBrKM-GI1AhdWCrYo3O-) (not free access)
 
 |Week|Topic|Homework PDF|Worked Solution|
 |:---:|:---:|:---:|:---:|
@@ -27,7 +27,7 @@ Worked solutions of Prof. Mark Zoback's Unconventional Reservoir Geomechanics Sp
 
 More advanced course continuation of Reservoir Geomechanics, course also available in EdX.
 
-> 👉 Presentation slides stored in this [Google Drive]() (not free access)
+> 👉 Presentation slides stored in this [Google Drive](https://drive.google.com/open?id=1Y-j5ZvLvhPrvSRRozMQw1JnWsn-QiiIZ) (not free access)
 
 |Week|Topic|Homework PDF|Worked Solution|
 |:---:|:---:|:---:|:---:|
