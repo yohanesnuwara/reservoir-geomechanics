@@ -35,7 +35,7 @@ More advanced course continuation of Reservoir Geomechanics, course also availab
 |2|Composition and Elastic Properties|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/unconve/homework%202/GP208_Spring_2020_Homework_2_edX.pdf)|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/unconve/homework%202/homework2_unconve_geomechanics.ipynb)|
 |3|Ductility and Stress Magnitudes|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/unconve/homework%203/GP208_Spring_2020_Homework_3_edX.pdf)|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/unconve/homework%203/homework3_unconve_geomech.ipynb)|
 |4|Permeability and Flow Mechanism|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/unconve/homework%204/Revised_GP208_Spring_2020_Homework_4_v2.pdf)|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/unconve/homework%204/homework4_unconve_geomech.ipynb)|
-|5|Reservoir Seismology|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/unconve/homework%205/GP208_Spring_2020_Homework_5_edX.pdf)|Unavailable yet|
+|5|Reservoir Seismology|[PDF](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/unconve/homework%205/GP208_Spring_2020_Homework_5_edX.pdf)|[Notebook](https://github.com/yohanesnuwara/reservoir-geomechanics/blob/master/unconve/homework%205/homework5_unconve_geomech.ipynb)|
 |6|Induced Shear Slip on Faults|Unavailable yet|Unavailable yet|
 
 <div>
